@@ -8,7 +8,7 @@
 ## 匿名質問サービスの改修　2019年04月~10月
 |  規模  | 体制  |  担当  |  フレームワーク・言語  |
 | ---- | ---- | ---- | ---- |
-| 10人  |　 Engineer leader 2人</br> Bizdev 2人</br>backend 3人</br>frontend 2人</br>|  backend  |  Ruby on Rails、Ruby  |
+| 10人  | Engineer leader 2人</br> Bizdev 2人</br>backend 3人</br>frontend 2人</br>|  backend  |  Ruby on Rails、Ruby  |
 
 ### 過程
 入社前にRailsチュートリアルを取り組んだものの、研修無しで2日目から配属、実務で1ヶ月はシステムのコードが読めず、デバッグ方法やRuby標準の組み込みメソッドすら知りませんでした。当然ですが、業務の遅れが発生しました。しかし、当時は、遅延に対する恐怖心によって、相談できませんでした。
@@ -33,7 +33,7 @@
 
 |  規模  | 体制  |  担当  |  フレームワーク・言語  |
 | ---- | ---- | ---- | ---- |
-| 5人  |　 Engineer leader 1人</br> backend 2人</br>frontend 2人</br>|  backend  |  Laravel、 PHP  |
+| 5人  | Engineer leader 1人</br> backend 2人</br>frontend 2人</br>|  backend  |  Laravel、 PHP  |
 
 ### 過程
 入社直後に、配置転換があり、Railsではなく、Laravel,Vue.jsのプロジェクトに配属されました。3週間のLaravel, PHPのキャッチアップの時間をいただき、実務に取り組みました。
@@ -49,7 +49,7 @@ webAPIの開発経験がなかったために、webを支える技術やwebAPI�
 
 |  規模  | 体制  |  担当  |  フレームワーク・言語  |
 | ---- | ---- | ---- | ---- |
-| 3人  |　 Engineer leader 1人</br> frontend 2人</br>|  frontend  |  Vue.js、Javascript  |
+| 3人  | Engineer leader 1人</br> frontend 2人</br>|  frontend  |  Vue.js、Javascript  |
 
 ### 過程
 初めてのフロントの担当でした。最初の2ヶ月は、Vue.jsの書籍を用いて写経して動かして学びました。その後、実務に入るも、全く作業が進まず、遅延が発生しました。最後に、上長へ相談し、巻き取っていただきました。
@@ -63,7 +63,7 @@ webAPIの開発経験がなかったために、webを支える技術やwebAPI�
 ## 2020月09月~11月 継続課金システムの改修 (フルリモート)
 |  規模  | 体制  |  担当  |  フレームワーク・言語  |
 | ---- | ---- | ---- | ---- |
-| 4人  |　 Engineer leader 1人</br>backend 3人</br>frontend 1人</br>|  backend </br> frontend  | Codeigniter、PHP</br>JQuery、Javascript |
+| 4人  | Engineer leader 1人</br>backend 3人</br>frontend 1人</br>|  backend </br> frontend  | Codeigniter、PHP</br>JQuery、Javascript |
 ### 過程
 CodeIgniterを使用していましたが、素のPHPで実装されている箇所が多く、変数名がuserPublicProfieなのに、UserModelだけの情報を扱っていたりして、システムのコードを読み解くのに苦労しました。また、コピペ流用されたコードが大量に散見されて、抽象化を少し意識してリファクタリングを行いました。フロント側では、JQueryで画面に表示するコンテンツの動的な制御を改修しました。
 
@@ -77,7 +77,7 @@ PHPリファレンスや書籍を参考に、基本文法を手元で確認し�
 ## 2020年12月~2021年12月（現在）送金・決済アプリの開発 (フルリモート)
 |  規模  | 体制  |  担当  |  フレームワーク・言語  |
 | ---- | ---- | ---- | ---- |
-| 15人  |　 Engineer leader 2人</br> Bizdev 2人</br>backend 3人</br>frontend 2人</br>|  backend  |  Ruby on Rails、Ruby  |
+| 15人  | Engineer leader 2人</br> Bizdev 2人</br>backend 3人</br>frontend 2人</br>|  backend  |  Ruby on Rails、Ruby  |
 
 ### 過程
 最初に取り組んだのは、3万行のcsvデータを差分確認し、登録、削除、更新対象抽出するバッチでした。次は、地方自体専用フォームの大改修を担当しました。開発期間が3ヶ月あったので、タスクを大まかに見積もりし、分割し、実装をしました。直前に、トラブルに見舞われましたが、無事リリースできました。現在は、新規開発のwebAPIを担当を行っています。
